@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy MiauRos!
 
-🎓 Estudiante de 8vo semestre de **Ingeniería en Tecnologías de la Información** en la **Universidad Politécnica de San Luis Potosí (UPSLP)**.  
+🎓 Estudiante de 8º semestre de **Ingeniería en Tecnologías de la Información** en la **Universidad Politécnica de San Luis Potosí (UPSLP)**.  
 🚀 Actualmente participo en el programa dual **SpeedUp** con **BMW**, desarrollando habilidades en tecnologías avanzadas.  
 💻 Apasionado por el desarrollo de software y la resolución de problemas con código.  
 
