@@ -5,10 +5,15 @@
 💻 Apasionado por el desarrollo de software y la resolución de problemas con código.  
 
 ## 🚀 Tecnologías y Herramientas  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
 
 ## 📌 Proyectos Destacados  
 🔹 [**Proyecto de Gestión de Ventas de Waffles**](#) - Aplicación web para gestionar pedidos de waffles.  
@@ -38,6 +43,11 @@
 
 ---
 
-📫 **Contáctame**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-rosales-rodríguez-2600b823a)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosales.c.mauricio@gmail.com)
+## 📫 Contacto
+📧 **Correo:** rosales.c.mauricio@gmail.com  
+💼 **LinkedIn:** [Mauricio Rosales Rodríguez](https://www.linkedin.com/in/mauricio-rosales-rodríguez-2600b823a)  
+🐱 **GitHub:** [MiauRos](https://github.com/MiauRos)  
+
+---
+🚀 *Siempre aprendiendo y mejorando.*
+
