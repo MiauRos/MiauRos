@@ -45,6 +45,12 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/H7W6UJF8?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/place-scene-objects-tutorials-mrtk.svg" width="100">
 </a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/NVX3XWNF?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/get-started-with-object-interaction-tutorials-mrtk.svg" width="100">
+</a>
+<a href="">
+  <img src="" width="100">
+</a>
 
 ## 📊 GitHub Statistics  
 ![MiauRos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiauRos&show_icons=true&theme=radical)  
