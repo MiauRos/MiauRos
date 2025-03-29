@@ -48,8 +48,8 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/NVX3XWNF?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/get-started-with-object-interaction-tutorials-mrtk.svg" width="100">
 </a>
-<a href="">
-  <img src="" width="100">
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/K6DQTQPB?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/spatial-audio-tutorials-mrtk.svg" width="100">
 </a>
 
 ## 📊 GitHub Statistics  
