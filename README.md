@@ -1,10 +1,10 @@
-# 👋 ¡Hola, soy MiauRos!
+# 👋 ¡Hi, I'm MiauRos!
 
 🎓 Estudiante de 8º semestre de **Ingeniería en Tecnologías de la Información** en la **Universidad Politécnica de San Luis Potosí (UPSLP)**.  
 🚀 Actualmente participo en el programa dual **SpeedUp** con **BMW**, desarrollando habilidades en tecnologías avanzadas.  
 💻 Apasionado por el desarrollo de software y la resolución de problemas con código.  
 
-## 🚀 Tecnologías y Herramientas  
+## 🚀 Technologies y Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -19,11 +19,11 @@
 ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 📌 Proyectos Destacados  
+## 📌 Featured Projects  
 🔹 [**Tech Logic Hub**](https://github.com/MiauRos/TechLogicHub.git) - Plataforma para apoyo académico en la mejora de la lógica de programación y matemáticas.  
 🔹 [**Proyecto de Gestión de Ventas de Waffles**](https://github.com/artissce/Proyecto_Waffles_React.git) - Aplicación web para gestionar pedidos de waffles.  
 
-## 🎖️ Certificaciones  
+## 🎖️ Certifications and Badges  
 <a href="https://www.credly.com/badges/b7b7781f-c6b0-444f-855a-da5cbe46ccf5/public_url">
   <img src="https://images.credly.com/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" width="100">
 </a>
@@ -46,14 +46,14 @@
   <img src="https://learn.microsoft.com/es-es/training/achievements/place-scene-objects-tutorials-mrtk.svg" width="100">
 </a>
 
-## 📊 Estadísticas de GitHub  
+## 📊 GitHub Statistics  
 ![MiauRos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiauRos&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiauRos&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contacto
-📧 **Correo:** rosales.c.mauricio@gmail.com  
+## 📫 Contact
+📧 **Mail:** rosales.c.mauricio@gmail.com  
 💼 **LinkedIn:** [Mauricio Rosales Rodríguez](https://www.linkedin.com/in/mauricio-rosales-rodríguez-2600b823a)  
 🐱 **GitHub:** [MiauRos](https://github.com/MiauRos)  
 
