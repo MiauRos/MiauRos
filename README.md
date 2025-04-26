@@ -32,27 +32,27 @@
 </a>
 <a href="https://www.credly.com/badges/15753bcb-107d-4554-aac2-58b158fad646/public_url">
   <img src="https://images.credly.com/size/340x340/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png" width="100">
-</a>
+</a> <br>
 <a href="https://www.credly.com/badges/64f50f21-5907-446b-bb6e-9d0bd3622570/public_url">
-  <img src="https://images.credly.com/size/340x340/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="100">
+  <img src="https://images.credly.com/size/340x340/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="75">
 </a>
 <a href="https://www.credly.com/badges/3158f7f2-824f-4a42-a5fc-ca7509953cc5/public_url">
-  <img src="https://images.credly.com/size/340x340/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="100">
-</a>
+  <img src="https://images.credly.com/size/340x340/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="75">
+</a> <br>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FMY36Z8X?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/learn-introduction-tutorials-mrtk.svg" width="100">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/learn-introduction-tutorials-mrtk.svg" width="50">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/H7W6UJF8?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/place-scene-objects-tutorials-mrtk.svg" width="100">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/place-scene-objects-tutorials-mrtk.svg" width="50">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/NVX3XWNF?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/get-started-with-object-interaction-tutorials-mrtk.svg" width="100">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/get-started-with-object-interaction-tutorials-mrtk.svg" width="50">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/K6DQTQPB?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/spatial-audio-tutorials-mrtk.svg" width="100">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/spatial-audio-tutorials-mrtk.svg" width="50">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="100">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
 </a>
 
 ## 📊 GitHub Statistics  
