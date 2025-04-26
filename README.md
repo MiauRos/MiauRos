@@ -51,6 +51,9 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/K6DQTQPB?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/spatial-audio-tutorials-mrtk.svg" width="100">
 </a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="100">
+</a>
 
 ## 📊 GitHub Statistics  
 ![MiauRos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiauRos&show_icons=true&theme=radical)  
