@@ -60,6 +60,9 @@
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/W22XDHSN?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
 </a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/PLL2W6S4?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/host-a-web-app-with-azure-app-service.svg" width="50">
+</a>
 
 ## 📊 GitHub Statistics  
 ![MiauRos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiauRos&show_icons=true&theme=radical)  
