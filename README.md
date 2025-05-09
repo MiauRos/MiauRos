@@ -32,6 +32,9 @@
 </a>
 <a href="https://www.credly.com/badges/15753bcb-107d-4554-aac2-58b158fad646/public_url">
   <img src="https://images.credly.com/size/340x340/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png" width="100">
+</a>
+<a href="https://www.credly.com/badges/919f5146-360c-46ab-bef5-811c3cb0e940/public_url">
+  <img src="https://images.credly.com/size/340x340/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" width="100">
 </a> <br>
 <a href="https://www.credly.com/badges/64f50f21-5907-446b-bb6e-9d0bd3622570/public_url">
   <img src="https://images.credly.com/size/340x340/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="75">
