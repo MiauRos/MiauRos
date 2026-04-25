@@ -54,32 +54,35 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/K6DQTQPB?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/spatial-audio-tutorials-mrtk.svg" width="50">
 </a>
-<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
-</a>
-<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/W22XDHSN?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
-</a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/PLL2W6S4?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/host-a-web-app-with-azure-app-service.svg" width="50">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/NVV8P58F?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/explore-non-relational-data-stores-azure.svg" width="50">
 </a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/H7V9DH48?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
-</a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/9Y7GL2NU?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/explore-postgresql-architecture.svg" width="50">
+</a><br>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/W22XDHSN?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/RosalesRodriguezCarlosMauricio-1407/H7V9DH48?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/W2EJS33N?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FM4SCFRX?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/KC4UGZCB?sharingId=E4E49D08F5A4D96C">
-  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="50">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/ELQWQE2P?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 
 ## 📊 GitHub Statistics  
