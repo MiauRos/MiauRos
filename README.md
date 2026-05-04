@@ -41,7 +41,10 @@
 </a>
 <a href="https://www.credly.com/badges/3158f7f2-824f-4a42-a5fc-ca7509953cc5/public_url">
   <img src="https://images.credly.com/size/340x340/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="75">
-</a> <br>
+</a> 
+
+<br>
+
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FMY36Z8X?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/learn-introduction-tutorials-mrtk.svg" width="50">
 </a>
@@ -62,7 +65,16 @@
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/9Y7GL2NU?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/explore-postgresql-architecture.svg" width="50">
-</a><br>
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/YPY74YER?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/intro-github-copilot.svg" width="50">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/KCK22K3B?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/intro-github-copilot.svg" width="50">
+</a>
+
+<br>
+
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
@@ -82,6 +94,42 @@
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/ELQWQE2P?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FQNHFPNX?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FQNFHNUX?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/WVWF7JHN?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/KCKD6QDB?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/YPY7QYKR?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/WVWXMWZN?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/PGP8W9L4?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/J3JYJ7BT?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/PGPWBWQ4?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/9R9KTK7U?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/ELEAUV9P?sharingId=E4E49D08F5A4D96C">
+  <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
+</a>
+<a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/VTVXXV5M?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 
