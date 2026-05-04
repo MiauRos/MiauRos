@@ -1,29 +1,61 @@
-# 👋 ¡Hi, I'm MiauRos!
+# 👋 Hi, I'm MiauRos!
 
-🎓 Estudiante de 8º semestre de **Ingeniería en Tecnologías de la Información** en la **Universidad Politécnica de San Luis Potosí (UPSLP)**.  
-🚀 Actualmente participo en el programa dual **SpeedUp** con **BMW**, desarrollando habilidades en tecnologías avanzadas.  
-💻 Apasionado por el desarrollo de software y la resolución de problemas con código.  
+## 🎯 Full Stack Developer
 
-## 🚀 Technologies y Tools  
+I'm a passionate **Full Stack Developer** committed to creating integrated solutions from backend to user interface. Specialized in **Java** (backend) and **Vue.js + Vuetify** (frontend), with experience in **microservices** architectures and relational databases.
+
+**About me:**
+- 🎓 **Engineer in Information Technologies** - Universidad Politécnica de San Luis Potosí (UPSLP)
+- 🚀 Completed the **SpeedUp** dual program with **BMW**, working on projects with advanced technologies
+- 💻 Developer committed to creating scalable, efficient, and professional-quality solutions
+- 🔧 Practical experience in microservices, REST APIs, and distributed architectures
+
+---
+
+## 🛠️ Technology Stack
+
+### 🔙 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎮 Others
 ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 📌 Featured Projects  
-🔹 [**Tech Logic Hub**](https://github.com/MiauRos/TechLogicHub.git) - Plataforma para apoyo académico en la mejora de la lógica de programación y matemáticas.  
-🔹 [**Proyecto de Gestión de Ventas de Waffles**](https://github.com/artissce/Proyecto_Waffles_React.git) - Aplicación web para gestionar pedidos de waffles.  
+## 📌 Featured Projects
 
-## 🎖️ Certifications and Badges  
+### ⭐ [Tech Logic Hub](https://github.com/MiauRos/TechLogicHub.git)
+Comprehensive educational platform for academic support in **programming logic and mathematics**. 
+- **Stack:** Vue.js + Vuetify (Frontend) | Scalable Backend
+- **Features:** Exercise manager, progress tracking, interactive assessments
+- **Impact:** Tool used to improve learning for programming students
+
+### 🎓 [Tech and Gadgets](https://github.com/MiauRos/tech-and-gadgets)
+Academic project for technology and gadget information management and analysis.
+- **Stack:** Full Stack (Frontend + Backend + Database)
+- **Features:** Complete information system, analysis, and management
+
+### [Waffle Sales Management Project](https://github.com/artissce/Proyecto_Waffles_React.git)
+Complete web application for managing waffle orders and sales.
+- **Stack:** React (Frontend) | Backend API
+- **Features:** Shopping cart, inventory management, sales reports  
+
+## 🎖️ Certifications and Badges
+
+### Professional Certifications
 <a href="https://www.credly.com/badges/b7b7781f-c6b0-444f-855a-da5cbe46ccf5/public_url">
   <img src="https://images.credly.com/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" width="100">
 </a>
@@ -36,6 +68,8 @@
 <a href="https://www.credly.com/badges/919f5146-360c-46ab-bef5-811c3cb0e940/public_url">
   <img src="https://images.credly.com/size/340x340/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" width="100">
 </a> <br>
+
+### Agile and Development Badges
 <a href="https://www.credly.com/badges/64f50f21-5907-446b-bb6e-9d0bd3622570/public_url">
   <img src="https://images.credly.com/size/340x340/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="75">
 </a>
@@ -43,8 +77,7 @@
   <img src="https://images.credly.com/size/340x340/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="75">
 </a> 
 
-<br>
-
+### Microsoft Learn Achievements
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/FMY36Z8X?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/learn-introduction-tutorials-mrtk.svg" width="50">
 </a>
@@ -73,8 +106,7 @@
   <img src="https://learn.microsoft.com/es-es/training/achievements/intro-github-copilot.svg" width="50">
 </a>
 
-<br>
-
+### Other Achievements
 <a href="https://learn.microsoft.com/api/achievements/share/es-es/RosalesRodriguezCarlosMauricio-1407/BCG7GJ8D?sharingId=E4E49D08F5A4D96C">
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
@@ -133,6 +165,27 @@
   <img src="https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg" width="25">
 </a>
 
+---
+
+## 💡 Key Skills
+
+**Architecture & Patterns:**
+- Microservices and distributed architectures
+- REST APIs and scalable APIs
+- SOLID patterns and clean code
+
+**Full Stack Development:**
+- End-to-end web application development
+- Frontend-backend integration
+- Relational database management
+
+**Methodologies:**
+- Agile development (Agile, Scrum)
+- Git and version control
+- Testing and QA
+
+---
+
 ## 📊 GitHub Statistics  
 ![MiauRos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiauRos&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiauRos&layout=compact&theme=radical)
@@ -140,9 +193,19 @@
 ---
 
 ## 📫 Contact
-📧 **Mail:** rosales.c.mauricio@gmail.com  
-💼 **LinkedIn:** [Mauricio Rosales Rodríguez](https://www.linkedin.com/in/mauricio-rosales-rodríguez-2600b823a)  
-🐱 **GitHub:** [MiauRos](https://github.com/MiauRos)  
+
+Interested in collaborating or just want to connect?
+
+- 📧 **Email:** rosales.c.mauricio@gmail.com  
+- 💼 **LinkedIn:** [Mauricio Rosales Rodríguez](https://www.linkedin.com/in/mauricio-rosales-rodríguez-2600b823a)  
+- 🐱 **GitHub:** [MiauRos](https://github.com/MiauRos)  
 
 ---
-🚀 *Siempre aprendiendo y mejorando.*
+
+<div align="center">
+
+🚀 *Always learning, growing, and creating innovative solutions with code.*
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MiauRos.MiauRos)
+
+</div>
